@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.mobilerun.portal"
+        applicationId = "com.pixel.helth"
         minSdk = 26
         targetSdk = 34
         versionCode = (project.findProperty("versionCode") as String).toInt()

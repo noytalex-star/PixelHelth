@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mobilerun.portal"
+    namespace = "com.pixel.helth"
     compileSdk = 34
 
     defaultConfig {
